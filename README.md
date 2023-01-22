@@ -4,5 +4,5 @@
 
 You can read more about this study here: https://github.com/Rithika-Nair/Classification_of_TNBC_cells/blob/045e5fba819ea32bcec29bd4a8a962f3be1e0284/Poster-for-submission-2.pdf
 
-*This was a collaborative project between 3 students as part of the UBC Undergraduate Research Experience (REX) mentorship program under the guidance of a Bioinformatics graduate student mentors and 2 othr upper year mentors. It was present at UBC Multidisciplinary Undergraduate Research Conference at UBC Vancouver in 2022.*
+*This was a collaborative project between 3 students inlcuding myself, as part of the UBC Undergraduate Research Experience (REX) mentorship program under the guidance of a Bioinformatics graduate student mentors and 2 othr upper year mentors. It was presented at UBC Multidisciplinary Undergraduate Research Conference at UBC Vancouver in 2022.*
 
