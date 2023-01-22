@@ -1,2 +1,8 @@
-# Classification_of_TNBC_cells
-Use publicly available RNA-seq data to train different machine learning models to classify TNBC and non-TNBC. Afterwards, analyze the different models to determine which one has a higher accuracy.
+# **Analyzing Machine Learning Models to Classify Triple Negative and Non-Triple Negative Breast Cancer**
+
+  The objective of this project was to use publicly available RNA-seq data to train different machine learning models to classify TNBC and non-TNBC. Afterwards, we analyzed the different models to determine which one has a higher accuracy. Data was first imported from the Gene Expression Omnibus (GEO) database and Differentially Expressed Gene analysis (DEG) and feature selection was performed on the data to create a new set of data for the Machine Learning models. Four commonly used algorithms were used to classify TNBC and non-TNBC: K-Nearest Neighbor, Support Vector Machine, Decision Tree and Naives Bayes. These four models were evaluated based on accuracy, F1 score, false positive rate and false negative rate. Out of all four models, KNN was found to be the most accurate in classifying TNBC and non-TNBC. Overall, this study could help to understand basic knowledge of bioinformatics in cancer classification, but more accurate models are needed to better conduct disease diagnosis and prognosis.
+
+You can read more about this study here: https://github.com/Rithika-Nair/Classification_of_TNBC_cells/blob/045e5fba819ea32bcec29bd4a8a962f3be1e0284/Poster-for-submission-2.pdf
+
+*This was a collaborative project between 3 students as part of the UBC Undergraduate Research Experience (REX) mentorship program under the guidance of a Bioinformatics graduate student mentors and 2 othr upper year mentors. It was present at UBC Multidisciplinary Undergraduate Research Conference at UBC Vancouver in 2022.*
+
